@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasDaCostaLopes)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasDaCostaLopes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasDaCostaLopes&layout=compact&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+[![test](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&titleAlign=center&borderRadius=50&lineCount=2&theme=catppuccin_mocha&line1=.net,.net,f14334;javascript,javascript,c8bd06;docker,docker,2a9ebb;rust,rust,ff6600;&line2=python,python,e8ff3d;html5,html5,c4b855)
 <!---
 NicolasDaCostaLopes/NicolasDaCostaLopes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
